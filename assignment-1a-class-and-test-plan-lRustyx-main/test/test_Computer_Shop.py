@@ -11,7 +11,7 @@ Student ID: 20701305
 
 
 import unittest
-from sampleclass.Computer_Shop import ComputerShop, Gpu, Cpu, Mother_board, Ram, Power_supply, Nvme_storage, Sata_storage
+from Computer_Shop.Computer_Shop import ComputerShop, Gpu, Cpu, Mother_board, Ram, Power_supply, Nvme_storage, Sata_storage
 
 
 class Test_computer_shop(unittest.TestCase):
